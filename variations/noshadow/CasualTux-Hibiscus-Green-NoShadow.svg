@@ -13,10 +13,10 @@
    version="1.1"
    viewBox="0 0 1000 1000"
    id="svg4655"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="CasualTux-Hibiscus-NoShadow.svg"
-   inkscape:export-xdpi="90"
-   inkscape:export-ydpi="90">
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="CasualTux-Hibiscus-Green-NoShadow.svg"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
   <metadata
      id="metadata6323">
     <rdf:RDF>
@@ -327,11 +327,11 @@ Casual Tux Hibiscus NoShadow is released under the same license as the original 
      inkscape:window-height="950"
      id="namedview6319"
      showgrid="false"
-     inkscape:zoom="0.75"
-     inkscape:cx="520.77087"
-     inkscape:cy="530.01353"
-     inkscape:window-x="2163"
-     inkscape:window-y="14"
+     inkscape:zoom="0.69977474"
+     inkscape:cx="512.84072"
+     inkscape:cy="483.04303"
+     inkscape:window-x="389"
+     inkscape:window-y="205"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg4655"
      inkscape:object-paths="false"
@@ -374,7 +374,7 @@ Casual Tux Hibiscus NoShadow is released under the same license as the original 
   </radialGradient>
   <g
      id="g7083"
-     transform="matrix(1.0508148,0,0,1.0508148,-52.054533,-0.50813963)">
+     transform="matrix(1.0722597,0,0,1.0508148,-63.320794,-0.50813963)">
     <path
        sodipodi:nodetypes="ccccc"
        inkscape:connector-curvature="0"
