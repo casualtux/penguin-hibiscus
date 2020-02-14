@@ -15,8 +15,8 @@
    id="svg4655"
    inkscape:version="0.91 r13725"
    sodipodi:docname="CasualTux-Hibiscus-Outline.svg"
-   inkscape:export-xdpi="90"
-   inkscape:export-ydpi="90">
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
   <metadata
      id="metadata6323">
     <rdf:RDF>
@@ -437,25 +437,25 @@ Casual Tux Hibiscus Outline is released under the same license as the original T
        transform="matrix(1.0508148,0,0,1.0508148,-52.054533,-0.50813963)"
        id="g7083">
       <path
-         style="fill:#3d4029;fill-opacity:1;stroke:#000000;stroke-width:1.27016056;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#3d4029;fill-opacity:1;stroke:#000000;stroke-width:2.5661118;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 370.69367,353.78369 1.61818,26.5428 38.93799,-11.49099 -5.67203,-17.81352 z"
          id="path9588-3-1"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="ccccc" />
       <path
-         style="fill:#3d4029;fill-opacity:1;stroke:#000000;stroke-width:1.27016056;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#3d4029;fill-opacity:1;stroke:#000000;stroke-width:2.5661118;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 263.38774,555.31219 c 42.90648,6.33373 87.47763,14.77738 84.84631,11.9973 l -64.21647,-47.34028 c -7.92405,10.7336 -13.93821,23.37705 -20.62984,35.34298 z"
          id="path9588-42"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="cccc" />
       <path
-         style="fill:#3d4029;fill-opacity:1;stroke:#000000;stroke-width:1.27016056;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#3d4029;fill-opacity:1;stroke:#000000;stroke-width:2.5661118;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 721.81743,317.83274 -1.61818,26.5428 -38.93799,-11.49099 5.67203,-17.81352 z"
          id="path9588-3"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="ccccc" />
       <path
-         style="fill:#3d4029;fill-opacity:1;stroke:#000000;stroke-width:1.27016056;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#3d4029;fill-opacity:1;stroke:#000000;stroke-width:2.5661118;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 842.46996,524.01112 c -42.90651,6.33373 -87.47766,14.77738 -84.84634,11.9973 l 64.21649,-47.34028 c 7.92403,10.73359 13.93819,23.37705 20.62985,35.34298 z"
          id="path9588"
          inkscape:connector-curvature="0"
@@ -2862,7 +2862,7 @@ Casual Tux Hibiscus Outline is released under the same license as the original T
            d="m 253.806,190.673 c -1.984,1.405 -2.364,6.615 -0.703,8.344 1.619,1.724 5.79,-0.032 6.485,-3.358 0.697,-3.326 -3.791,-6.432 -5.782,-4.986 z" />
       </g>
       <path
-         style="fill:#dae595;fill-opacity:1;stroke:#000000;stroke-width:1.27016056;stroke-miterlimit:4;stroke-dasharray:none"
+         style="fill:#dae595;fill-opacity:1;stroke:#000000;stroke-width:2.5661118;stroke-miterlimit:4;stroke-dasharray:none"
          d="M 509.49115,453.30755 505.103,812.03089 c 127.66104,-71.47559 229.38175,-44.05803 271.83036,-47.3637 l -82.38874,-34.29804 12.94794,-68.73482 c 7.64855,-17.04852 19.12735,-24.33485 34.39072,-27.01217 16.0942,-28.59218 22.58752,-53.64038 14.46822,-97.39164 -6.22229,-48.60648 -33.11265,-65.70815 -65.67012,-86.5258 -31.82865,-65.25521 25.59841,-75.0073 48.2879,-77.36879 -6.35464,-11.66535 -6.37164,-4.46814 -17.4863,-52.12662 z"
          id="path7950"
          inkscape:connector-curvature="0"
@@ -5027,7 +5027,7 @@ Casual Tux Hibiscus Outline is released under the same license as the original T
            d="m 255.819,179.339 c -4.223,-4.509 -11.918,-6.652 -10.812,-5.859 0.354,0.222 5.148,2.827 9.668,6.777 0.73,0.639 1.779,-0.236 1.144,-0.918 z" />
       </g>
       <path
-         style="fill:#dae595;fill-opacity:1;stroke:#000000;stroke-width:1.27016056;stroke-miterlimit:4;stroke-dasharray:none"
+         style="fill:#dae595;fill-opacity:1;stroke:#000000;stroke-width:2.5661118;stroke-miterlimit:4;stroke-dasharray:none"
          d="m 755.48273,535.21528 c 25.3959,-10.31195 46.06758,-29.64285 85.44066,-13.27109 -9.09227,-22.52435 -38.08937,-64.79072 -47.58301,-76.39066 -18.639,-30.55158 -17.15964,-22.99994 -53.27925,-71.03195 -70.87305,3.22816 -64.03283,51.83408 -49.32272,75.00877 19.37033,12.41714 59.70397,34.21902 64.74432,85.68493 z"
          id="path7952"
          inkscape:connector-curvature="0"
@@ -6543,19 +6543,19 @@ Casual Tux Hibiscus Outline is released under the same license as the original T
         </g>
       </g>
       <path
-         style="fill:#b6bf7c;fill-opacity:1;stroke:#000000;stroke-width:1.27016056;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#b6bf7c;fill-opacity:1;stroke:#000000;stroke-width:2.5661118;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="M 593.52868,427.28544 511.22774,452.00981 672.67899,351.72494 Z"
          id="path9588-4"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="cccc" />
       <path
-         style="fill:#b6bf7c;fill-opacity:1;stroke:#000000;stroke-width:1.27016056;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#b6bf7c;fill-opacity:1;stroke:#000000;stroke-width:2.5661118;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 636.29161,426.77636 c -2.83475,-7.87949 -6.59033,-15.75895 -17.64746,-23.63845 l 54.03484,-52.43111 49.60602,-32.98736 c 7.25663,8.65581 10.17685,17.31163 12.05161,25.96744 z"
          id="path9588-9"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="cccccc" />
       <path
-         style="fill:#dae595;fill-opacity:1;stroke:#000000;stroke-width:1.27016056;stroke-miterlimit:4;stroke-dasharray:none"
+         style="fill:#dae595;fill-opacity:1;stroke:#000000;stroke-width:2.5661118;stroke-miterlimit:4;stroke-dasharray:none"
          d="m 524.7707,451.77071 4.38815,358.72334 c -48.33949,-21.89962 -78.29308,-23.28334 -99.49483,-27.53332 7.74313,-38.74025 -10.52379,-34.80636 -61.27684,-84.5651 -16.14727,-12.32701 -40.91487,-34.77601 -55.23392,-43.5913 -1.92965,-29.06433 -0.92485,-59.01024 9.55519,-102.76151 14.97781,-39.66142 17.02704,-38.04199 41.60957,-85.19683 20.4298,-67.96921 -34.62867,-42.71047 -22.67742,-58.06224 6.35464,-11.66535 5.61911,-8.09506 34.6463,-48.69709 z"
          id="path7950-1"
          inkscape:connector-curvature="0"
@@ -8504,19 +8504,19 @@ Casual Tux Hibiscus Outline is released under the same license as the original T
         </g>
       </g>
       <path
-         style="fill:#dae595;fill-opacity:1;stroke:#000000;stroke-width:1.27016056;stroke-miterlimit:4;stroke-dasharray:none"
+         style="fill:#dae595;fill-opacity:1;stroke:#000000;stroke-width:2.5661118;stroke-miterlimit:4;stroke-dasharray:none"
          d="m 323.10182,557.77498 c -25.3959,-10.31195 -20.54838,-19.78315 -59.92145,-3.41139 8.51228,-26.58424 17.79002,-52.6111 34.24343,-82.19049 9.93926,-21.27189 24.69941,-47.93919 50.95932,-73.3519 70.87305,3.22816 43.52822,53.77928 27.80806,70.38854 -15.83509,16.96246 -38.18931,39.99923 -53.08936,88.56524 z"
          id="path7952-7"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="cccccc" />
       <path
-         style="fill:#b6bf7c;fill-opacity:1;stroke:#000000;stroke-width:0.96906871;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#b6bf7c;fill-opacity:1;stroke:#000000;stroke-width:2.5661118;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 433.86777,439.57697 c 2.10029,-6.19061 4.8828,-12.38117 13.07498,-18.57176 l -40.03429,-41.19293 -36.75298,-25.91681 c -5.37642,6.80049 -7.53998,13.60103 -8.929,20.40157 z"
          id="path9588-9-7"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="cccccc" />
       <path
-         style="fill:#b6bf7c;fill-opacity:1;stroke:#000000;stroke-width:1.02125716;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#b6bf7c;fill-opacity:1;stroke:#000000;stroke-width:2.5661118;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 458.85236,432.32387 65.49631,20.08472 -128.4853,-81.46597 z"
          id="path9588-4-1"
          inkscape:connector-curvature="0"
