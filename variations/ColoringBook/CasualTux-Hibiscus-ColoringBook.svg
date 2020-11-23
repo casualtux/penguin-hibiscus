@@ -107,7 +107,7 @@ Casual Tux Coloring Book is released under the same license as the original Tux.
      id="namedview6319"
      showgrid="false"
      inkscape:zoom="0.61580177"
-     inkscape:cx="149.74874"
+     inkscape:cx="225.89013"
      inkscape:cy="459.32064"
      inkscape:window-x="234"
      inkscape:window-y="57"
@@ -153,7 +153,7 @@ Casual Tux Coloring Book is released under the same license as the original Tux.
        id="stop4671" />
   </radialGradient>
   <g
-     id="g3624">
+     id="g6947">
     <path
        sodipodi:nodetypes="ccccc"
        inkscape:connector-curvature="0"
@@ -179,7 +179,7 @@ Casual Tux Coloring Book is released under the same license as the original Tux.
        d="m 836.56872,548.66656 c -45.60125,6.63754 -92.97169,15.4862 -90.17512,12.57277 l 68.24962,-49.61104 c 8.42169,11.24845 14.81357,24.49837 21.9255,37.03827 z"
        style="fill:#ffffff;stroke:#000000;stroke-width:5.36190605;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <path
-       style="stroke-width:2.68095303"
+       style="stroke-width:2.68095303;fill:#000000;fill-opacity:1"
        d="m 841.32402,666.50885 c -12.82976,52.13598 -77.95053,161.00818 -112.55201,208.92729 -34.59878,48.11077 -30.32219,91.42964 -94.27932,74.56212 -63.76004,-16.86752 -81.64395,-13.8007 -147.53958,-9.96717 -65.51225,3.83086 -51.32175,-1.91943 -92.33541,16.29249 -40.82198,18.20926 -177.86717,-220.81123 -188.94742,-265.27749 -10.88316,-44.47159 -16.1344,-39.10465 12.24659,-87.21543 28.38369,-48.10812 32.46318,-95.64653 69.98052,-153.91616 37.51734,-58.46131 80.86639,-88.17115 77.75614,-132.83176 C 353.40964,151.28265 343.68742,68.478437 418.33602,30.143155 489.48289,-6.2753638 548.96633,15.384071 572.48757,27.843038 c 10.1083,5.366939 30.71367,15.717466 46.07051,33.926725 15.35684,17.825906 29.15855,44.852277 36.93417,78.970677 15.94001,68.42848 -6.60927,45.81067 11.46903,124.20632 17.88391,78.20131 54.23491,116.5366 98.55591,178.44808 44.3156,61.91414 90.5805,164.07767 75.80683,223.11401 z"
        id="path4677"
        inkscape:connector-curvature="0" />
@@ -189,7 +189,7 @@ Casual Tux Coloring Book is released under the same license as the original Tux.
        id="path4681"
        d="m 419.4381,260.37714 c 11.66072,-4.60023 9.69792,-5.21253 17.47354,-21.88838 6.22049,-12.84232 11.68502,-18.36367 11.49063,-37.91466 0,-19.16764 -6.0261,-25.68464 -15.16245,-38.14361 -8.74757,-11.88393 -22.74367,-12.45896 -31.49124,-10.92555 -5.05415,0.7667 -11.66072,7.09203 -16.1344,16.48417 -2.91585,6.32532 -5.24854,14.37573 -5.44563,22.80949 -0.58317,22.61782 1.36344,31.24326 6.60927,46.57737 6.2232,18.02025 21.38564,27.41239 32.66028,23.00117 z" />
     <path
-       style="stroke-width:2.68095303"
+       style="stroke-width:2.68095303;fill:#000000;fill-opacity:1"
        d="m 408.5517,182.3675 c 5.83171,0 13.21855,3.83353 16.71487,9.00879 3.69342,5.17527 6.41489,12.45897 6.41489,20.70106 0,12.26729 -1.36074,25.87631 -8.74487,30.09319 -2.33268,1.34174 -7.38683,2.4918 -10.30269,2.4918 -6.60927,0 -7.19244,-4.21688 -13.41293,-10.5422 -2.1383,-2.30012 -8.55318,-13.41735 -8.55318,-22.61782 0,-5.75029 -1.36073,-13.99238 3.69342,-21.27608 3.49902,-5.36694 7.97,-7.85874 14.19049,-7.85874 z"
        id="path4723"
        inkscape:connector-curvature="0" />
@@ -204,7 +204,7 @@ Casual Tux Coloring Book is released under the same license as the original Tux.
        id="path4771"
        d="m 539.96012,262.86893 c 29.15855,-3.06682 39.46124,-14.18405 44.70978,-33.54337 4.66807,-17.25087 4.86246,-36.41852 -8.16169,-58.84466 -12.24659,-21.46509 -19.24465,-24.91793 -36.93687,-26.25966 -27.21195,-2.30012 -40.04441,16.48417 -46.06781,29.90152 -6.41488,14.5674 -5.05415,12.45896 -4.66807,30.8599 0.39148,19.35932 11.46093,24.75554 18.26729,36.83115 6.80097,11.8866 29.55274,21.24946 32.85737,21.05512 z" />
     <path
-       style="stroke-width:2.68095303"
+       style="stroke-width:2.68095303;fill:#000000;fill-opacity:1"
        d="m 537.6269,181.6008 c 14.57927,0 23.13245,12.84232 26.0483,29.32649 1.16635,7.47538 -0.58317,16.10082 -5.24853,22.04279 -5.24854,6.90035 -14.57928,11.11723 -22.1605,11.11723 -7.19245,0 -15.35684,1.15006 -19.63073,-4.60024 -4.27659,-5.94196 -5.24854,-19.16764 -5.24854,-28.55978 0,-10.5422 3.11025,-18.01758 8.55318,-23.95955 4.07949,-4.41122 11.46633,-5.36694 17.68682,-5.36694 z"
        id="path4813"
        inkscape:connector-curvature="0" />
@@ -278,15 +278,15 @@ Casual Tux Coloring Book is released under the same license as the original Tux.
           <stop
              id="stop6140"
              offset="0"
-             stop-color="#FAC700" />
+             stop-color="#000000" />
           <stop
              id="stop6142"
              offset=".415"
-             stop-color="#F7C400" />
+             stop-color="#000000" />
           <stop
              id="stop6144"
              offset="1"
-             stop-color="#F7C400" />
+             stop-color="#000000" />
         </linearGradient>
         <path
            inkscape:connector-curvature="0"
@@ -304,15 +304,15 @@ Casual Tux Coloring Book is released under the same license as the original Tux.
           <stop
              id="stop6149"
              offset="0"
-             stop-color="#F6C200" />
+             stop-color="#000000" />
           <stop
              id="stop6151"
              offset=".415"
-             stop-color="#EFBC00" />
+             stop-color="#000000" />
           <stop
              id="stop6153"
              offset="1"
-             stop-color="#EFBC00" />
+             stop-color="#000000" />
         </linearGradient>
         <path
            inkscape:connector-curvature="0"
@@ -330,15 +330,15 @@ Casual Tux Coloring Book is released under the same license as the original Tux.
           <stop
              id="stop6158"
              offset="0"
-             stop-color="#F1BD00" />
+             stop-color="#000000" />
           <stop
              id="stop6160"
              offset=".415"
-             stop-color="#E8B500" />
+             stop-color="#000000" />
           <stop
              id="stop6162"
              offset="1"
-             stop-color="#E8B500" />
+             stop-color="#000000" />
         </linearGradient>
         <path
            inkscape:connector-curvature="0"
@@ -356,15 +356,15 @@ Casual Tux Coloring Book is released under the same license as the original Tux.
           <stop
              id="stop6167"
              offset="0"
-             stop-color="#EDB800" />
+             stop-color="#000000" />
           <stop
              id="stop6169"
              offset=".415"
-             stop-color="#E0AD00" />
+             stop-color="#000000" />
           <stop
              id="stop6171"
              offset="1"
-             stop-color="#E0AD00" />
+             stop-color="#000000" />
         </linearGradient>
         <path
            inkscape:connector-curvature="0"
@@ -382,15 +382,15 @@ Casual Tux Coloring Book is released under the same license as the original Tux.
           <stop
              id="stop6176"
              offset="0"
-             stop-color="#E9B300" />
+             stop-color="#000000" />
           <stop
              id="stop6178"
              offset=".415"
-             stop-color="#D8A500" />
+             stop-color="#000000" />
           <stop
              id="stop6180"
              offset="1"
-             stop-color="#D8A500" />
+             stop-color="#000000" />
         </linearGradient>
         <path
            inkscape:connector-curvature="0"
@@ -408,15 +408,15 @@ Casual Tux Coloring Book is released under the same license as the original Tux.
           <stop
              id="stop6185"
              offset="0"
-             stop-color="#E4AE00" />
+             stop-color="#000000" />
           <stop
              id="stop6187"
              offset=".415"
-             stop-color="#D19E00" />
+             stop-color="#000000" />
           <stop
              id="stop6189"
              offset="1"
-             stop-color="#D19E00" />
+             stop-color="#000000" />
         </linearGradient>
         <path
            inkscape:connector-curvature="0"
@@ -434,15 +434,15 @@ Casual Tux Coloring Book is released under the same license as the original Tux.
           <stop
              id="stop6194"
              offset="0"
-             stop-color="#E0A900" />
+             stop-color="#000000" />
           <stop
              id="stop6196"
              offset=".415"
-             stop-color="#C99600" />
+             stop-color="#000000" />
           <stop
              id="stop6198"
              offset="1"
-             stop-color="#C99600" />
+             stop-color="#000000" />
         </linearGradient>
         <path
            inkscape:connector-curvature="0"
@@ -460,15 +460,15 @@ Casual Tux Coloring Book is released under the same license as the original Tux.
           <stop
              id="stop6203"
              offset="0"
-             stop-color="#DCA400" />
+             stop-color="#000000" />
           <stop
              id="stop6205"
              offset=".415"
-             stop-color="#C18E00" />
+             stop-color="#000000" />
           <stop
              id="stop6207"
              offset="1"
-             stop-color="#C18E00" />
+             stop-color="#000000" />
         </linearGradient>
         <path
            inkscape:connector-curvature="0"
@@ -486,15 +486,15 @@ Casual Tux Coloring Book is released under the same license as the original Tux.
           <stop
              id="stop6212"
              offset="0"
-             stop-color="#D79F00" />
+             stop-color="#000000" />
           <stop
              id="stop6214"
              offset=".415"
-             stop-color="#BA8700" />
+             stop-color="#000000" />
           <stop
              id="stop6216"
              offset="1"
-             stop-color="#BA8700" />
+             stop-color="#000000" />
         </linearGradient>
         <path
            inkscape:connector-curvature="0"
@@ -512,15 +512,15 @@ Casual Tux Coloring Book is released under the same license as the original Tux.
           <stop
              id="stop6221"
              offset="0"
-             stop-color="#D39B00" />
+             stop-color="#000000" />
           <stop
              id="stop6223"
              offset=".415"
-             stop-color="#B27F00" />
+             stop-color="#000000" />
           <stop
              id="stop6225"
              offset="1"
-             stop-color="#B27F00" />
+             stop-color="#000000" />
         </linearGradient>
         <path
            inkscape:connector-curvature="0"
@@ -538,15 +538,15 @@ Casual Tux Coloring Book is released under the same license as the original Tux.
           <stop
              id="stop6230"
              offset="0"
-             stop-color="#CF9600" />
+             stop-color="#000000" />
           <stop
              id="stop6232"
              offset=".415"
-             stop-color="#a70" />
+             stop-color="#000000" />
           <stop
              id="stop6234"
              offset="1"
-             stop-color="#a70" />
+             stop-color="#000000" />
         </linearGradient>
         <path
            inkscape:connector-curvature="0"
@@ -564,15 +564,15 @@ Casual Tux Coloring Book is released under the same license as the original Tux.
           <stop
              id="stop6239"
              offset="0"
-             stop-color="#CA9100" />
+             stop-color="#000000" />
           <stop
              id="stop6241"
              offset=".415"
-             stop-color="#A37000" />
+             stop-color="#000000" />
           <stop
              id="stop6243"
              offset="1"
-             stop-color="#A37000" />
+             stop-color="#000000" />
         </linearGradient>
         <path
            inkscape:connector-curvature="0"
@@ -590,15 +590,15 @@ Casual Tux Coloring Book is released under the same license as the original Tux.
           <stop
              id="stop6248"
              offset="0"
-             stop-color="#C68C00" />
+             stop-color="#000000" />
           <stop
              id="stop6250"
              offset=".415"
-             stop-color="#9B6800" />
+             stop-color="#000000" />
           <stop
              id="stop6252"
              offset="1"
-             stop-color="#9B6800" />
+             stop-color="#000000" />
         </linearGradient>
         <path
            inkscape:connector-curvature="0"
@@ -616,15 +616,15 @@ Casual Tux Coloring Book is released under the same license as the original Tux.
           <stop
              id="stop6257"
              offset="0"
-             stop-color="#C28700" />
+             stop-color="#000000" />
           <stop
              id="stop6259"
              offset=".415"
-             stop-color="#936000" />
+             stop-color="#000000" />
           <stop
              id="stop6261"
              offset="1"
-             stop-color="#936000" />
+             stop-color="#000000" />
         </linearGradient>
         <path
            inkscape:connector-curvature="0"
@@ -642,15 +642,15 @@ Casual Tux Coloring Book is released under the same license as the original Tux.
           <stop
              id="stop6266"
              offset="0"
-             stop-color="#BD8200" />
+             stop-color="#000000" />
           <stop
              id="stop6268"
              offset=".415"
-             stop-color="#8C5900" />
+             stop-color="#000000" />
           <stop
              id="stop6270"
              offset="1"
-             stop-color="#8C5900" />
+             stop-color="#000000" />
         </linearGradient>
         <path
            inkscape:connector-curvature="0"
@@ -668,15 +668,15 @@ Casual Tux Coloring Book is released under the same license as the original Tux.
           <stop
              id="stop6275"
              offset="0"
-             stop-color="#B97D00" />
+             stop-color="#000000" />
           <stop
              id="stop6277"
              offset=".415"
-             stop-color="#845100" />
+             stop-color="#000000" />
           <stop
              id="stop6279"
              offset="1"
-             stop-color="#845100" />
+             stop-color="#000000" />
         </linearGradient>
         <path
            inkscape:connector-curvature="0"
@@ -694,15 +694,15 @@ Casual Tux Coloring Book is released under the same license as the original Tux.
           <stop
              id="stop6284"
              offset="0"
-             stop-color="#B57800" />
+             stop-color="#000000" />
           <stop
              id="stop6286"
              offset=".415"
-             stop-color="#7C4900" />
+             stop-color="#000000" />
           <stop
              id="stop6288"
              offset="1"
-             stop-color="#7C4900" />
+             stop-color="#000000" />
         </linearGradient>
         <path
            inkscape:connector-curvature="0"
@@ -720,15 +720,15 @@ Casual Tux Coloring Book is released under the same license as the original Tux.
           <stop
              id="stop6293"
              offset="0"
-             stop-color="#B07300" />
+             stop-color="#000000" />
           <stop
              id="stop6295"
              offset=".415"
-             stop-color="#754200" />
+             stop-color="#000000" />
           <stop
              id="stop6297"
              offset="1"
-             stop-color="#754200" />
+             stop-color="#000000" />
         </linearGradient>
         <path
            inkscape:connector-curvature="0"
@@ -746,15 +746,15 @@ Casual Tux Coloring Book is released under the same license as the original Tux.
           <stop
              id="stop6302"
              offset="0"
-             stop-color="#AC6E00" />
+             stop-color="#000000" />
           <stop
              id="stop6304"
              offset=".415"
-             stop-color="#6D3A00" />
+             stop-color="#000000" />
           <stop
              id="stop6306"
              offset="1"
-             stop-color="#6D3A00" />
+             stop-color="#000000" />
         </linearGradient>
         <path
            inkscape:connector-curvature="0"
@@ -772,15 +772,15 @@ Casual Tux Coloring Book is released under the same license as the original Tux.
           <stop
              id="stop6311"
              offset="0"
-             stop-color="#A86A00" />
+             stop-color="#000000" />
           <stop
              id="stop6313"
              offset=".415"
-             stop-color="#663200" />
+             stop-color="#000000" />
           <stop
              id="stop6315"
              offset="1"
-             stop-color="#663200" />
+             stop-color="#000000" />
         </linearGradient>
         <path
            inkscape:connector-curvature="0"
@@ -1070,7 +1070,7 @@ Casual Tux Coloring Book is released under the same license as the original Tux.
       </g>
     </g>
     <path
-       style="fill:none;stroke:#000000;stroke-width:5.36190605;stroke-miterlimit:4;stroke-dasharray:none;fill-opacity:1"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:5.36190605;stroke-miterlimit:4;stroke-dasharray:none"
        d="m 482.67717,474.57157 -4.66375,375.93018 C 613.69222,775.5977 721.8015,804.33039 766.9161,800.86616 l -87.56317,-35.94322 13.76114,-72.03181 c 8.12892,-17.86629 20.32864,-25.50212 36.55062,-28.30786 17.10501,-29.96366 24.00613,-56.21334 15.3769,-102.06322 -6.61308,-50.93798 -35.19229,-68.85996 -69.79453,-90.67617 -33.82765,-68.3853 27.20612,-78.60517 51.32062,-81.07992 -6.75374,-12.22491 -6.77181,-4.68247 -18.58453,-54.62698 z"
        id="path3126"
        inkscape:connector-curvature="0"
